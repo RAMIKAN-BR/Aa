@@ -6,7 +6,7 @@ Aa é uma linguagem de programação simples, apenas para efeito de aprendizado 
 uma linguagem de programação com o ANTLR4 do zero, sem IDE, apenas usando o prompt de comando do Windows. 
 Por que não usar IDE? É simples, as versões do ANTLR4 estão sendo atualizadas 
 (hoje está no Antlr-4.13.0-completo.jar) e os plugins do Antlr4 nas IDEs estão todos defasados e quando
-é necessário gerar arquivos do Antlr4 no PC de vido a ausência de algum comando na IDE e às vezes isso gera
+é necessário gerar arquivos do Antlr4 no PC devido a ausência de algum comando na IDE e às vezes isso gera
 diversos erros, alguns devido à diferença de versões do Antlr4 do PC para a da IDE. Os erros de 
 imports são muito difíceis de corrigir às vezes, principalmente para os que não sabem programar como eu! 
 
