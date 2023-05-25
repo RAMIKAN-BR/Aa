@@ -292,7 +292,7 @@ ChatGPT
 java Main
 
 ## Concluímos a criação da linguagem Aa com uma pequena mudança, mas serve ao nosso propósito.
-![Alt text](https://imgcloud.com.br/share/sQs6RUWd2O86yBUh)
+<a href="https://imgcloud.com.br/share/sQs6RUWd2O86yBUh"><img src="https://imgcloud.com.br/share/sQs6RUWd2O86yBUh/direct" alt="Cavaleiro" border="0" /></a>
 
 User
 Funcionou! Não ficou como eu queria de início como escrevemos na gramatica, mas dá para testar como a nossa 
