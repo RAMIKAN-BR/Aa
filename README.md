@@ -327,7 +327,7 @@ Se você por algum motivo achar inútil esse tutorial saiba que eu procurei algo
   perceber isso não acate a correção com a memória limpa, espere ela voltar lentamente ao normal, e só aí retome as correções 
   dos erros.
 
-
+# Obs: Eu coloquei todos os arquivos do meu projeto aqui. Se você quiser pode baixar tudo, jogar dentro da pasta do antler aonde estão o antler-4.13.0-complete.jar e as suas pastas que foram descompactadas, jogue tambem uma copia de todos os executaveis instalados em sua maquina nescessarios para a execução do projeto: uma copia do jar.exe, do java.exe, do javac.exe isso diminui chances de erros. Se algo der errado dutante a execução do comando no prompt do windows (powershell/cmd): java Main? Que é o comando que abre o prompt para que você digite "a" e dê o enter para que apareça o "A" na linha abaixo? Pode ser que o caminho patch dos programas Antlr4 e o JDK-20 não estejam configurados no windows, você terá que configurar os caminhos patchs deles: antlr4 e jdk-20/bin (pacote java). Uma vez conigurado os patchs dos arquivos, tudo deve funcionar corretamente, a menos que exista algum outro problema.  
 
 
 
