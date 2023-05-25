@@ -292,8 +292,7 @@ ChatGPT
 java Main
 
 ## Concluímos a criação da linguagem Aa com uma pequena mudança, mas serve ao nosso propósito.
-
-    ![Aa](https://github.com/RAMIKAN-BR/Aa/assets/132024683/fb9d3fc7-badc-47da-af37-8614bfbe8f01)
+![Aa](https://github.com/RAMIKAN-BR/Aa/assets/132024683/fb9d3fc7-badc-47da-af37-8614bfbe8f01)
 
 User
 Funcionou! Não ficou como eu queria de início como escrevemos na gramatica, mas dá para testar como a nossa 
