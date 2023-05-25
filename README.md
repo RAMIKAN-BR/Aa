@@ -43,8 +43,11 @@ CMD do Windows. Criamos dois arquivos na mão e executamos os seguintes comandos
 joguei dentro dos arquivos os códigos e os salvei com os nomes e extensões corretos .java)
 
 3 - javac Aa*.java
+
 4 - antlr4 Aa.g4 -visitor
+
 5 - javac *.java
+
 6 - java Main
 
 ## Passo 4: criação da linguagem Aa detalhada:
